@@ -1,6 +1,6 @@
 using System;
 
-namespace lab5-1
+namespace lab5.1
 {
     interface IShape
     {
