@@ -1,6 +1,6 @@
 using System;
 
-namespace _3
+namespace lab53
 {
     class Shop
     {
